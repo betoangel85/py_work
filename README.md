@@ -1,2 +1,8 @@
 # py_work
-Librerias Face Detection y Color Detection En ROS
+
+Desarrollo del sistemas de reconocimiento facial y reconocimiento de color
+Basado en video por mensajes , nodos y topicos en ROS
+
+
+Grupo DomCat INC.
+Mexico
